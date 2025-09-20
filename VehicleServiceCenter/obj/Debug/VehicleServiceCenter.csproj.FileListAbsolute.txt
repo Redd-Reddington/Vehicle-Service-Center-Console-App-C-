@@ -1,0 +1,7 @@
+C:\Users\yduos\source\repos\VehicleServiceCenter\VehicleServiceCenter\bin\Debug\VehicleServiceCenter.exe.config
+C:\Users\yduos\source\repos\VehicleServiceCenter\VehicleServiceCenter\bin\Debug\VehicleServiceCenter.exe
+C:\Users\yduos\source\repos\VehicleServiceCenter\VehicleServiceCenter\bin\Debug\VehicleServiceCenter.pdb
+C:\Users\yduos\source\repos\VehicleServiceCenter\VehicleServiceCenter\obj\Debug\VehicleServiceCenter.csproj.AssemblyReference.cache
+C:\Users\yduos\source\repos\VehicleServiceCenter\VehicleServiceCenter\obj\Debug\VehicleServiceCenter.csproj.CoreCompileInputs.cache
+C:\Users\yduos\source\repos\VehicleServiceCenter\VehicleServiceCenter\obj\Debug\VehicleServiceCenter.exe
+C:\Users\yduos\source\repos\VehicleServiceCenter\VehicleServiceCenter\obj\Debug\VehicleServiceCenter.pdb
